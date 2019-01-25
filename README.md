@@ -5,6 +5,7 @@ Use 'manage credentials' to remove any cached GitHub credentials.
 
 git config --global --unset user.name 
 git config --global --unset user.email
+git config --global user.useConfigOnly true
 git config --system --unset credential.helper
 git config --local user.name "First Last"
 git config --local user.email name@mail.com
