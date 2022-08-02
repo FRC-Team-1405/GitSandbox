@@ -1,4 +1,4 @@
 # Grocery List
 * milk
-* eggs
-* break
+* 1 dozen eggs
+* bread
