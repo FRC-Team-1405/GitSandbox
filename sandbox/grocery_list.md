@@ -1,14 +1,11 @@
 # Grocery List
 Milk
 Cheese
-PEANUT BUTTER Cookies
+Peanutbutter Cookies
 Meat
 Bacon
 IceCreame
-Toilet Paper
-MORE CHEEZE!
-EVEN MORE CHEEZE!!!!
-Cow Tails
-Ham Sandwich
-DUCKS
-COWS
+Eggs
+IceCream
+Veggies
+HappyMeals
