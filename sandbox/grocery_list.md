@@ -1,9 +1,7 @@
 # Grocery List
 Milk
 Cheese
-Cookies
+Peanutbutter Cookies
 Meat
 Bacon
 IceCreame
-Kale
-HappyMeals
