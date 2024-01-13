@@ -3,7 +3,7 @@ Milk
 Cheese
 Cookies
 Meat
-Bacon
-IceCreame
-Kale
+Eggs
+IceCream
+Veggies
 HappyMeals
